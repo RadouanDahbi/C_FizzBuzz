@@ -1,2 +1,2 @@
 # C_FizzBuzz
-FizzBuzz kata
+FizzBuzz katana
